@@ -1,4 +1,4 @@
-module github.com/d353rv3b/golang-united-school-homework-1
+module github.com/heboq/golang-united-school-homework-1
 
 go 1.17
 
